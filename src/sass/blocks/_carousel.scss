@@ -1,9 +1,12 @@
 .carousel {
     padding: 81px 0;
-
+   h2{
+    padding-bottom: 30px;
+   }
     &__inner {
         position: relative;
-        width: 750px;
+        width: 550px;
+        // height: 100%;
         margin: 0 auto;
     }
 
@@ -12,7 +15,7 @@
         border: none;
         background-color: #ffffff;
         top: 50%;
-        transform: translateY(-50%);
+        // transform: translateY(-50%);
         left: -66px;
 
         img {

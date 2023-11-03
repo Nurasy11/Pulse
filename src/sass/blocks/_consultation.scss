@@ -1,7 +1,7 @@
 .consultation {
-    min-height: 680px;
+    min-height: 580px;
     padding: 100px 0 92px 0;
-    background: url('../img/bg2.jpg') center (center/cover) no-repeat;
+    background: url('../img/consul_bg.png') center (center/cover) no-repeat;
 
     &__descr {
         color: aliceblue;
@@ -15,7 +15,7 @@
     }
 
     label.error {
-        color: #fff;
+        color: aliceblue;
         border: none;
         margin-bottom: 15px;
         text-align: center;
